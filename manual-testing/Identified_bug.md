@@ -1,3 +1,5 @@
+
+
 # Ayn Platform - Bug Reports
 
 This document details the bugs discovered during the manual testing phase of the QA assessment. A total of **7 bugs** were identified.
