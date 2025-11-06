@@ -1,10 +1,5 @@
 # Quality Assurance & Engineering Assessment: Ayn AML Platform
 
-**Submitted by:** [Your Name]
-**Date:** November 5, 2025
-**Project Repository:** [Link to this GitHub Repository]
-
----
 
 ## 1. Executive Summary: From Assessment to Actionable Insight
 
