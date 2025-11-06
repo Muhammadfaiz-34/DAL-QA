@@ -9,7 +9,7 @@
 The test was configured with the following performance thresholds:
 -   **95th Percentile Response Time:** Less than 3000ms.
 -   **95th Percentile Time to First Byte (TTFB):** Less than 1500ms.
--   **Error Rate:** Less than 2% of requests failing.
+-   **Error Rate:** Less than 2% of requests failing.a
 
 ## 3. Executive Summary of Results
 **The application is not stable under load and failed the test catastrophically.** The server was unable to handle the moderate load of 20 concurrent users, resulting in a **100% error rate**. None of the 1,200 requests made during the test were successful.
